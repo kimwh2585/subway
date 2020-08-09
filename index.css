@@ -516,7 +516,7 @@ a {
     background-color: transparent !important;
     position: absolute;
     top: 50%;
-    left: -50px;
+    left: -45px;
     transform: translateY(-50%);
     font-size: 4rem !important;
     color: #333 !important;
@@ -524,7 +524,7 @@ a {
 
 .carousel-1 .owl-nav > div.owl-next {
     left: auto;
-    right: -50px;
+    right: -20px;
 }
 
 .body .carousel-1 .owl-carousel {
