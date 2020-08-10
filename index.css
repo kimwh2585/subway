@@ -283,7 +283,6 @@ a {
     bottom: 0;
     width: 1170px;
     margin-left: -585px;
-    text-align: right;
     z-index: 55;
     transform: translateY(220%);
 }
@@ -291,7 +290,6 @@ a {
 .quick-link {
     overflow: hidden;
     float: right;
-    display: table;
 }
 
 .quick-link a {
